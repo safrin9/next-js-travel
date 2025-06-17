@@ -30,12 +30,12 @@ export const featuredTours: Tour[] = [
     originalPrice: "",
 
     images: [
-      "/images/bullet_train.jpg",
-      "/images/cruise.jpg",
-      "/images/drum show.jpg",
-      "/images/tokyo4.jpg",
-      "/images/images.jpg",
-      "/images/ally.jpg",
+      "/images/bullet_train.jpeg",
+      "/images/cruise.jpeg",
+      "/images/drum show.jpeg",
+      "/images/tokyo4.jpeg",
+      "/images/images.jpeg",
+      "/images/ally.jpeg",
     ],
     href: "",
     description: "",
@@ -68,11 +68,12 @@ export const featuredTours: Tour[] = [
     originalPrice: "",
 
     images: [
-      "/images/day-door.jpg",
-      "/images/couple.jpg",
-      "/images/door.jpg",
-      "/images/night.jpg",
-      "/images/samurai.jpg",
+      "/images/kyoto1.jpg",
+      "/images/kyoto2.jpg",
+      "/images/kyoto3.jpg",
+      "/images/kyoto4.jpg",
+      "/images/kyoto5.jpg",
+      "/images/kyoto6.jpg",
     ],
 
     description: "",
